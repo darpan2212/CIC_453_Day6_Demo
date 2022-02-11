@@ -1,0 +1,5 @@
+calculateMonthlyWage.sh
+forLoop.sh
+output.txt
+power.sh
+whileLoop.sh
