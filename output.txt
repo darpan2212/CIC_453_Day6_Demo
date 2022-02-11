@@ -3,3 +3,7 @@ forLoop.sh
 output.txt
 power.sh
 whileLoop.sh
+
+\asdkjg
+adfkjg
+agdh
